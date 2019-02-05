@@ -14,8 +14,10 @@ other_pr_master | [link]()
 
 
 ## Todos
-- [ ] Tests
-- [ ] Documentation
+- [ ] Create Unit Tests
+- [ ] Create Documentation
+- [ ] Remove Copy & Paste Code
+- [ ] Check Apache 2.0 License in package.xml and file headers
 
 
 ## Steps to Test or Reproduce
