@@ -15,6 +15,7 @@ other_pr_master | [link]()
 
 ## Todos
 - [ ] Create Unit Tests
+- [ ] Check that install directives are in CMakelists
 - [ ] Create Documentation
 - [ ] Remove Copy & Paste Code
 - [ ] Check Apache 2.0 License in package.xml and file headers
